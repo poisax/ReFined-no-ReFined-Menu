@@ -1,0 +1,61 @@
+title: ReFined no ReFined Menu
+originalAuthor: Unknown
+description: returns the main menu to vanilla 2.5.
+game: kh2
+dependencies: 
+assets:
+- name: remastered/menu/us/title.2ld/-8.png
+  multi:
+  - name: remastered/menu/us/title_fast.2ld/-8.png
+  - name: remastered/menu/us/title.2ld/-9.png
+  - name: remastered/menu/us/title.2ld/-10.png
+  - name: remastered/menu/us/title.2ld/-11.png
+  - name: remastered/menu/us/title.2ld/-12.png
+  - name: remastered/menu/us/title.2ld/-13.png
+  method: copy
+  source:
+  - name: remastered/menu/titlescreen/regular_screen/US.png
+- name: remastered/menu/fr/title.2ld/-8.png
+  multi:
+  - name: remastered/menu/fr/title_fast.2ld/-8.png
+  - name: remastered/menu/fr/title.2ld/-9.png
+  - name: remastered/menu/fr/title.2ld/-10.png
+  - name: remastered/menu/fr/title.2ld/-11.png
+  - name: remastered/menu/fr/title.2ld/-12.png
+  - name: remastered/menu/fr/title.2ld/-13.png
+  method: copy
+  source:
+  - name: remastered/menu/titlescreen/regular_screen/FR.png
+- name: remastered/menu/it/title.2ld/-8.png
+  multi:
+  - name: remastered/menu/it/title_fast.2ld/-8.png
+  - name: remastered/menu/it/title.2ld/-9.png
+  - name: remastered/menu/it/title.2ld/-10.png
+  - name: remastered/menu/it/title.2ld/-11.png
+  - name: remastered/menu/it/title.2ld/-12.png
+  - name: remastered/menu/it/title.2ld/-13.png
+  method: copy
+  source:
+  - name: remastered/menu/titlescreen/regular_screen/IT.png
+- name: remastered/menu/gr/title.2ld/-8.png
+  multi:
+  - name: remastered/menu/gr/title_fast.2ld/-8.png
+  - name: remastered/menu/gr/title.2ld/-9.png
+  - name: remastered/menu/gr/title.2ld/-10.png
+  - name: remastered/menu/gr/title.2ld/-11.png
+  - name: remastered/menu/gr/title.2ld/-12.png
+  - name: remastered/menu/gr/title.2ld/-13.png
+  method: copy
+  source:
+  - name: remastered/menu/titlescreen/regular_screen/GR.png
+- name: remastered/menu/sp/title.2ld/-8.png
+  multi:
+  - name: remastered/menu/sp/title_fast.2ld/-8.png
+  - name: remastered/menu/sp/title.2ld/-9.png
+  - name: remastered/menu/sp/title.2ld/-10.png
+  - name: remastered/menu/sp/title.2ld/-11.png
+  - name: remastered/menu/sp/title.2ld/-12.png
+  - name: remastered/menu/sp/title.2ld/-13.png
+  method: copy
+  source:
+  - name: remastered/menu/titlescreen/regular_screen/SP.png
